@@ -1,0 +1,15 @@
+.search{
+    -webkit-appearance: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(40, 55, 71, 0.639);
+    font-size: 1.0rem;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(181, 223, 214);
+    border-radius: 40px;
+    text-align: center;
+}
